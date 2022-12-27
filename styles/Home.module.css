@@ -39,6 +39,17 @@
   text-decoration: underline;
 }
 
+.title span {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title span:hover,
+.title span:focus,
+.title span:active {
+  text-decoration: underline;
+}
+
 .title {
   margin: 0;
   line-height: 1.15;
